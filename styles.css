@@ -11,7 +11,7 @@ body {
     flex-direction: column;
     gap: 10px;
     position: absolute;
-    top: 10%;
+    top: 5%;
     left: 50%;
     transform: translate(-50%, 0%);
     min-width: 300px;
@@ -37,4 +37,13 @@ a {
 button:hover{
     border: 1px solid green;
     
+}
+
+p{
+    font-size: 18px;
+}
+
+.logo-img{
+    margin-bottom: 50px;
+    text-align: center;
 }
