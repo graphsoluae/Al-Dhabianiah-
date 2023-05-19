@@ -25,6 +25,7 @@ button {
     border-radius: 10px;
     font-family: 'Montserrat', sans-serif;
     cursor: pointer;
+    border: 3px solid #8c2073;
 }
 
 a {
@@ -35,7 +36,7 @@ a {
 }
 
 button:hover{
-    border: 1px solid green;
+    border: 2px solid #289c8f;
     
 }
 
